@@ -1,0 +1,4 @@
+## Temas principales:
+- [[goroutines]]
+- [[canales]]
+
